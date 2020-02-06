@@ -1,6 +1,6 @@
 # Digital Credit
 
-Digital Credit is a sample application that was developed for exploratory purposes to examine development frameworks and techniques. The application is an example online credit application.
+Digital Credit is a sample application that was developed for exploratory purposes to examine development frameworks and techniques. The application is an example online credit application. 01
 
 ## Getting Started
 
